@@ -1,2 +1,0 @@
-Senha 12345
-Usuario: admin
